@@ -1,5 +1,5 @@
 NumPy
 pandas
-sci-kit - learn
+sci-kit-learn
 requests
 streamlit
